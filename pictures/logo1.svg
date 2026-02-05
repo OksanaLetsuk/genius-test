@@ -1,0 +1,43 @@
+<svg width="144" height="183" viewBox="0 0 144 183" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0_16_16)">
+<rect y="28.4683" width="104" height="160" rx="10" transform="rotate(-15.8865 0 28.4683)" fill="url(#pattern0_16_16)" fill-opacity="0.44"/>
+<g filter="url(#filter0_d_16_16)">
+<path d="M29.1336 38.119C56.1462 30.1396 84.5129 45.5691 92.4923 72.5817L99.008 94.6394C106.987 121.652 91.5579 150.019 64.5453 157.998L29.1336 38.119Z" fill="url(#pattern1_16_16)" shape-rendering="crispEdges"/>
+<path d="M10.934 38.2814L37.3075 30.4909C66.9684 21.7292 98.1161 38.6714 106.878 68.3323L78.1068 76.8311C70.9097 52.4668 49.6178 37.2816 30.5501 42.9141L47.3331 37.9565L10.934 38.2814ZM113.394 90.39C123.72 125.348 103.752 162.057 68.7947 172.384L52.0116 177.341L77.079 138.655L60.2959 143.613C79.3636 137.98 90.255 117.957 84.6225 98.8888L113.394 90.39ZM52.0116 177.341L10.934 38.2814L29.1336 38.119C34.857 36.4283 40.8327 35.7553 46.7888 36.1306L60.3646 82.072L80.4554 150.085L80.4471 150.074C75.651 153.625 70.2687 156.307 64.5453 157.998L52.0116 177.341ZM37.3075 30.4909C66.9684 21.7292 98.1161 38.6714 106.878 68.3323L113.394 90.39C123.72 125.348 103.752 162.057 68.7947 172.384L60.2959 143.613C79.3636 137.98 90.255 117.957 84.6225 98.8888L78.1068 76.8311C70.9097 52.4668 49.6178 37.2816 30.5501 42.9141L37.3075 30.4909Z" fill="url(#paint0_linear_16_16)"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_16_16" x="10.934" y="28.1821" width="116.181" height="157.159" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="7" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.230769 0 0 0 0 0.230769 0 0 0 0 0.0721154 0 0 0 0.81 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_16_16"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_16_16" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_16_16" x1="53.5889" y1="30.895" x2="89.0006" y2="150.774" gradientUnits="userSpaceOnUse">
+<stop offset="0.466346" stop-color="#048E09"/>
+<stop offset="0.6" stop-color="#048E09"/>
+<stop offset="1" stop-color="#666666"/>
+</linearGradient>
+<clipPath id="clip0_16_16">
+<rect y="28.4683" width="104" height="160" rx="10" transform="rotate(-15.8865 0 28.4683)" fill="white"/>
+</clipPath>
+<pattern id="pattern0_16_16" patternUnits="userSpaceOnUse" patternTransform="matrix(4.08 0 0 19.2 0 28.4683)" preserveAspectRatio="none" viewBox="0 0 20.4 96" width="1" height="1">
+<use xlink:href="#pattern0_16_16_inner" transform="translate(-20.4 0)"/>
+<g id="pattern0_16_16_inner">
+<ellipse cx="8.5" cy="20" rx="8.5" ry="20" fill="#D8E345" fill-opacity="0.84"/>
+</g>
+<use xlink:href="#pattern0_16_16_inner" transform="translate(-10.2 48)"/>
+<use xlink:href="#pattern0_16_16_inner" transform="translate(10.2 48)"/>
+</pattern><pattern id="pattern1_16_16" patternUnits="userSpaceOnUse" patternTransform="matrix(6.48498 -1.91563 6.29422 21.3078 50.7694 31.7279)" preserveAspectRatio="none" viewBox="0 0 48.3 158.7" width="1" height="1">
+<use xlink:href="#pattern1_16_16_inner" transform="translate(-48.3 0)"/>
+<g id="pattern1_16_16_inner">
+<ellipse cx="21" cy="34.5" rx="21" ry="34.5" fill="#E8F52E" fill-opacity="0.88"/>
+</g>
+<use xlink:href="#pattern1_16_16_inner" transform="translate(-24.15 79.35)"/>
+<use xlink:href="#pattern1_16_16_inner" transform="translate(24.15 79.35)"/>
+</pattern></defs>
+</svg>
